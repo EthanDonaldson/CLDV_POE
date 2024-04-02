@@ -22,7 +22,17 @@ namespace CLDV_POE.Controllers
         {
             return View();
         }
-        public IActionResult Work()
+        public IActionResult MyWork()
+        {
+            return View();
+        }
+
+        public IActionResult AboutUs()
+        {
+            return View();
+        }
+
+        public IActionResult ContactUs()
         {
             return View();
         }
